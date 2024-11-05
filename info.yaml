@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "TT09 SKU130 ROM Test"
+  title:        "TT09 SKY130 ROM Test"
   author:       "Sylvain Munaut"
   discord:      "246tnt"
   description:  "Test of some prototype ROM macros"
